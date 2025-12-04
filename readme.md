@@ -9,10 +9,9 @@
 - 😨[HacktheBox Profile]()
 - 🤗[My notes for Ethical Hacking](https://www.notion.so/)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=nickapic.nickapic&left_color=green&right_color=red)
-
 ### Connect with me:
 -📧Keshhav.srivastava@gmail.com
+###
 -☎️+918285158150
 
 ### Languages and Tools:
